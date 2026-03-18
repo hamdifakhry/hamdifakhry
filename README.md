@@ -34,7 +34,12 @@
   <a href="https://wa.me/201091910151" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="36" alt="whatsapp logo" />
   </a>
+
+  <a href="mailto:hamdi.fakhry.ai@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo" />
+  </a>
 </div>
+
     
 
 ###
